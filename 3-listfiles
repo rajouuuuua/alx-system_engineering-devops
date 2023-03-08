@@ -1,0 +1,4 @@
+[master ac70718] Task 3. The long format
+ 2 files changed, 6 insertions(+)
+ create mode 100755 0x00-shell_basics/3-listfiles
+ create mode 100644 2-bring_me_home
