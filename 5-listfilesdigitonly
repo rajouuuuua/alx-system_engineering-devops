@@ -1,9 +1,5 @@
-On branch master
-Your branch is up to date with 'origin/master'.
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	5-listfilesdigitonly
-	cat
-
-nothing added to commit but untracked files present (use "git add" to track)
+[master fb88e1e] Task 5. I love numbers
+ 3 files changed, 9 insertions(+)
+ mode change 100644 => 100755 0x00-shell_basics/5-listfilesdigitonly
+ create mode 100644 5-listfilesdigitonly
+ create mode 100644 cat
